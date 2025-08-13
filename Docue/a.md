@@ -1,6 +1,6 @@
 # Kernel
 
-Kernel is kernel module list written in Sand Lang.
+Kernel is kernel module list written in Single Lang.
 
 Kernel is park kernel.
 
